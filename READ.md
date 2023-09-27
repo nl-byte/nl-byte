@@ -14,5 +14,4 @@
 
 # 📊GitHub Stats :
 ![nl-byte's Stats](https://github-readme-stats.vercel.app/api?username=nl-byte&theme=omni&show_icons=true&hide_border=true&count_private=true)
-![nl-byte's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nl-byte&theme=omni&hide_border=true)
 ![nl-byte's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nl-byte&theme=omni&show_icons=true&hide_border=true&layout=compact)
